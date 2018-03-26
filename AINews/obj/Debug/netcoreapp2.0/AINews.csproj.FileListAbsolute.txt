@@ -1,0 +1,11 @@
+I:\source\AINews\AINews\AINews\bin\Debug\netcoreapp2.0\AINews.deps.json
+I:\source\AINews\AINews\AINews\bin\Debug\netcoreapp2.0\AINews.runtimeconfig.json
+I:\source\AINews\AINews\AINews\bin\Debug\netcoreapp2.0\AINews.runtimeconfig.dev.json
+I:\source\AINews\AINews\AINews\bin\Debug\netcoreapp2.0\AINews.dll
+I:\source\AINews\AINews\AINews\bin\Debug\netcoreapp2.0\AINews.pdb
+I:\source\AINews\AINews\AINews\obj\Debug\netcoreapp2.0\AINews.csprojResolveAssemblyReference.cache
+I:\source\AINews\AINews\AINews\obj\Debug\netcoreapp2.0\AINews.csproj.CoreCompileInputs.cache
+I:\source\AINews\AINews\AINews\obj\Debug\netcoreapp2.0\AINews.AssemblyInfoInputs.cache
+I:\source\AINews\AINews\AINews\obj\Debug\netcoreapp2.0\AINews.AssemblyInfo.cs
+I:\source\AINews\AINews\AINews\obj\Debug\netcoreapp2.0\AINews.dll
+I:\source\AINews\AINews\AINews\obj\Debug\netcoreapp2.0\AINews.pdb

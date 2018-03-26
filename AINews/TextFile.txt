@@ -1,0 +1,16 @@
+﻿
+//图片
+https://www.isharebest.com/tencc0web.htm
+https://www.pexels.com/
+https://unsplash.com/
+
+//Let’s Encrypt
+https://blog.csdn.net/qingtian2002/article/details/53691600
+https://www.cnblogs.com/cool-fire/p/8205911.html
+http://www.ptbird.cn/nginx-lets-encrypt-no-renew.html
+https://blog.csdn.net/liuxiaoming1109/article/details/78907573
+https://www.centos.bz/2017/08/centos-7-nginx-ssl-lets-encrypt/
+https://www.jianshu.com/p/0ae9f5e3f08f
+https://certbot.eff.org/
+https://letsencrypt.org/
+https://ruby-china.org/topics/31942
